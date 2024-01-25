@@ -1,0 +1,2 @@
+- Hi, I'm @thatonebinaryguy.
+- I'm a student with a good knowledge of HTML, JS, and CSS, I also know some C#.
